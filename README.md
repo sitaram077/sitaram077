@@ -27,6 +27,6 @@ Working on developing intelligent virtual assistants that bridge the gap between
 - Email: sitaramyeleswarapu@gmail.com
 
 Let's collaborate and make the future exciting with technology! 🚀
-[![sitaram77's GitHub | Stats](https://stats.quine.sh/sitaram77/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sitaram77)
+
 
 
