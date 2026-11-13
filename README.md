@@ -2,7 +2,7 @@
 
 **ML Engineer | Computer Vision | NLP | AI Systems**
 
-📍 Vishakhapatnam, India | 📧 sitaramyeleswarapu@gmail.com
+📍 Mumbai, India | 📧 sitaramyeleswarapu@gmail.com
 
 ---
 
